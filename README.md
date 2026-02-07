@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Antonio</h1>
-<h3 align="center">Computer Science Major at University of Illinois Chicago</h3>
+<h3 align="center">Computer Science Major with Mathematics Minor at University of Illinois Chicago</h3>
 
 - 📫 How to reach me: **ajunabia228@gmail.com**
 
