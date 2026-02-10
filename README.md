@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Antonio Unabia</h1>
 <h3 align="center">Computer Science Major with Mathematics Minor at University of Illinois Chicago</h3>
 
-- ⚙️ I’m currently working on [Workaholic:](https://devpost.com/software/workaholic-30h7g9)
+- ⚙️ I’m currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9)
 
 - 🌱 I’m currently learning: **HTML, CSS, Javascript**
 
