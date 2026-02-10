@@ -3,9 +3,9 @@
 
 - ⚙️ I’m currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9)
 
-- 🌱 I’m currently learning: **HTML, CSS, Javascript**
-
 - 📫 How to reach me: **ajunabia228@gmail.com**
+
+- 🌱 I’m currently learning: **HTML, CSS, Javascript**
 
 - 💭 Fun fact: **I love game development, Asian food, and reading books!**
 
