@@ -1,10 +1,10 @@
 <h1 align="center">👋 <code>Hello World</code> from Antonio Unabia</h1>
-<h3 align="center">Computer Science Major with Mathematics Minor at University of Illinois Chicago</h3>
+<h3 align="center">💻 CS Student & Dean's List | 🤖 AI Trainer | 🎮 Game Dev | 🌏 Tech Explorer</h3>
 
 ---
 
 <h3 align="center">📝 About Me</h3>
-I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started back in elementary school writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter — whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀  
+I'm a Computer Science undergraduate with a Mathematics minor at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started in elementary school, writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter — whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀  
 
 ---
 
@@ -12,7 +12,6 @@ I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S.
 
 - ⚙️ I'm currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9) (First Place at UIC SparkHacks 2026!)
 - 🌱 I'm currently learning: **HTML, CSS, Javascript**
-- 💡 My first coding memory: Writing **print statements** in elementary school 🖥️
 - 💭 **I love game development, Asian food, and reading books!**
 - 🤝 Open to **internships and collaborations** — let's build something great!
 
