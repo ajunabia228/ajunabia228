@@ -28,7 +28,7 @@ I'm a Computer Science undergraduate with a Mathematics minor at the University 
 
 ---
 
-<h3 align="center">🔤 Languages and Tools</h3>
+<h3 align="center">🔤 Language Badges</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></a>
   &nbsp;
@@ -43,6 +43,13 @@ I'm a Computer Science undergraduate with a Mathematics minor at the University 
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a>
   &nbsp;
   <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/assemblyscript.svg" alt="assembly" width="55" height="55"/></a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Developer Tools</h3>
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/></a>
   &nbsp;
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a>
   &nbsp;
