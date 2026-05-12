@@ -6,7 +6,7 @@
 <h3 align="center">📝 About Me</h3>
 I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started back in elementary school writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter — whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀
 
-<br><br>
+<br>
 
 - ⚙️ I'm currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9) (First Place at UIC SparkHacks 2026!)
 - 🌱 I'm currently learning: **HTML, CSS, Javascript**
