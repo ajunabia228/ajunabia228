@@ -8,8 +8,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/antonio-unabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-unabia" height="30" width="40" /></a>
-  <a href="mailto:ajunabia228@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
-  <a href="https://uic.joinhandshake.com/profiles/antonio-unabia" target="blank"><img align="center" src="https://cdn.joinhandshake.com/assets/handshake-logo-mark-pink.svg" alt="handshake" height="30" width="40" /></a>
+  <a href="mailto:ajunabia228@gmail.com" target="blank"><img align="center" src="https://cdn.simpleicons.org/gmail/EA4335" alt="email" height="30" width="40" /></a>
+  <a href="https://uic.joinhandshake.com/profiles/antonio-unabia" target="blank"><img align="center" src="https://cdn.simpleicons.org/handshake/E94057" alt="handshake" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
