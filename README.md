@@ -4,7 +4,7 @@
 ---
 
 <h3 align="center">📝 About Me</h3>
-I'm a Computer Science undergraduate with a Mathematics minor at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started in elementary school, writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter — whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀  
+I'm a Computer Science undergraduate with a Mathematics minor at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started in elementary school, writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter, whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀  
 
 ---
 
@@ -42,9 +42,11 @@ I'm a Computer Science undergraduate with a Mathematics minor at the University 
   &nbsp;
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/></a>
   &nbsp;
+  <a href="https://www.nasm.us/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/assemblyscript.svg" alt="assembly" width="55" height="55"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/></a>
   &nbsp;
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/></a>
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="55" height="55"/></a>
 </p>
 
 ---
