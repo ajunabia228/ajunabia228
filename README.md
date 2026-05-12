@@ -1,5 +1,5 @@
 <h1 align="center">👋 <code>Hello World</code> from Antonio Unabia</h1>
-<h3 align="center">💻 CS Student & Dean's List  |  🤖 AI Trainer  |  🎮 Game Dev  |  🌏 Tech Explorer</h3>
+<h3 align="center">💻 Dean's List Scholar &nbsp;|&nbsp; 🤖 AI Trainer &nbsp;|&nbsp; 🎮 Game Dev &nbsp;|&nbsp; 🌏 Tech Explorer</h3>
 
 ---
 
