@@ -6,7 +6,7 @@
 <h3 align="center">📝 About Me</h3>
 I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started back in elementary school writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter — whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀
 
-<br><br><br>
+<br><br>
 
 - ⚙️ I'm currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9) (First Place at UIC SparkHacks 2026!)
 - 🌱 I'm currently learning: **HTML, CSS, Javascript**
@@ -14,7 +14,7 @@ I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S.
 
 ---
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center">🔗 Connect with me</h3>
 <p align="center">
   <a href="https://linkedin.com/in/antonio-unabia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antonio-unabia" height="55" width="55" /></a>
   &nbsp;
@@ -25,7 +25,7 @@ I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S.
 
 ---
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">🔤 Languages and Tools</h3>
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></a>
   &nbsp;
@@ -46,4 +46,4 @@ I'm a Computer Science undergraduate at the University of Illinois Chicago (B.S.
 
 ---
 
-<p align="center"><sub>Every line of code is a work of art 🎨</sub></p>
+<p align="center"><sub>🎨 Every line of code is a work of art 🎨</sub></p>
