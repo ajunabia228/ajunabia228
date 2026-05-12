@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Antonio Unabia</h1>
+<h1 align="center">👋 <code>Hello World</code> from Antonio Unabia</h1>
 <h3 align="center">Computer Science Major with Mathematics Minor at University of Illinois Chicago</h3>
 
 ---
