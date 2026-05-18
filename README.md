@@ -10,7 +10,7 @@ I'm a Computer Science undergraduate with a Mathematics minor at the University 
 
 <h3 align="center">📜 Fun Facts</h3>
 
-- ⚙️ I'm currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9) (First Place at UIC SparkHacks 2026!)
+- ⚙️ I'm currently working on [Workaholic](https://devpost.com/software/workaholic-30h7g9) (Won First Place at UIC SparkHacks 2026!)
 - 🌱 I'm currently learning: **HTML, CSS, Javascript**
 - 💭 **I love game development, Asian food, and reading books!**
 - 🤝 Open to **internships and collaborations** — let's build something great!
