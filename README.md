@@ -4,7 +4,9 @@
 ---
 
 <h3 align="center">📝 About Me</h3>
-I'm a Computer Science undergraduate with a Mathematics minor at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started in elementary school, writing my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter, whether that's contributing to open-source, developing full-stack applications, or diving into system design. Always eager to collaborate and grow! 🚀  
+I'm a Computer Science undergraduate with a Mathematics minor at the University of Illinois Chicago (B.S. expected 2028), with a passion for technology that started in elementary school, when I wrote my first print statements. My coursework has built me a strong foundation in learning new languages, building projects from scratch, and tackling complex problems. I'm driven by a love for building things that actually matter, whether that's contributing to open-source, developing full-stack applications, or diving into system design. <br><br>
+
+Currently, I'm a Product Management Intern at [ISACA](https://www.isaca.org/)! Always eager to collaborate and grow! 🚀  
 
 ---
 
